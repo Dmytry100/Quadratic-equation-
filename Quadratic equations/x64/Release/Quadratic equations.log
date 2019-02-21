@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Quadratic equations.cpp
+d:\project_c++\quadratic equations\quadratic equations\quadratic equations.cpp(165): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\project_c++\quadratic equations\quadratic equations\quadratic equations.cpp(186): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\project_c++\quadratic equations\quadratic equations\quadratic equations.cpp(194): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  All 51 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Quadratic equations.vcxproj -> D:\Project_C++\Quadratic equations\x64\Release\Quadratic equations.exe

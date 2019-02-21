@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Quadratic equations.cpp
+d:\project_c++\quadratic equations\quadratic equations\quadratic equations.cpp(165): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\project_c++\quadratic equations\quadratic equations\quadratic equations.cpp(186): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+d:\project_c++\quadratic equations\quadratic equations\quadratic equations.cpp(194): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Quadratic equations.vcxproj -> D:\Project_C++\Quadratic equations\Debug\Quadratic equations.exe

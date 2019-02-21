@@ -1,6 +1,0 @@
-﻿  pch.cpp
-  Quadratic equestion.cpp
-d:\project_c++\quadratic equestion\quadratic equestion\quadratic equestion.cpp(168): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
-d:\project_c++\quadratic equestion\quadratic equestion\quadratic equestion.cpp(189): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
-d:\project_c++\quadratic equestion\quadratic equestion\quadratic equestion.cpp(197): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-  Quadratic equestion.vcxproj -> D:\Project_C++\Quadratic equestion\x64\Debug\Quadratic equestion.exe
